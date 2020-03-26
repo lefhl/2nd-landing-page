@@ -438,13 +438,13 @@ template {
 }
 @font-face {
   font-family: 'Gotham';
-  src: url('../assets/fonts/GothaProBol.otf');
+  src: url('../assets/fonts/gotha-pro-bol.otf');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Gotham Book';
-  src: url('../assets/fonts/Gotham Book.otf');
+  src: url('../assets/fonts/gotham-book.otf');
   font-weight: normal;
   font-style: normal;
 }
