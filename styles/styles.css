@@ -1059,7 +1059,8 @@ button {
   margin-top: -5px;
 }
 .key-feature {
-  height: 100vh;
+  min-height: 100vh;
+  padding: 50px 0;
 }
 .key-feature__container {
   display: -webkit-box;
