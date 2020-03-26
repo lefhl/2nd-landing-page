@@ -450,7 +450,7 @@ template {
 }
 @font-face {
   font-family: 'Roboto Condensed';
-  src: url('../assets/fonts/RobotoBoldCondensed.ttf');
+  src: url('../assets/fonts/roboto-bold-condensed.ttf');
   font-weight: bold;
   font-style: normal;
 }
