@@ -395,8 +395,8 @@ template {
 }
 @font-face {
   font-family: 'icomoon';
-  src: url('../../assets/fonts/icomoon.eot?9u6x40');
-  src: url('../../assets/fonts/icomoon.eot?9u6x40#iefix') format('embedded-opentype'), url('../../assets/fonts/icomoon.ttf?9u6x40') format('truetype'), url('../../assets/fonts/icomoon.woff?9u6x40') format('woff'), url('../../assets/fonts/icomoon.svg?9u6x40#icomoon') format('svg');
+  src: url('../assets/fonts/icomoon.eot?9u6x40');
+  src: url('../assets/fonts/icomoon.eot?9u6x40#iefix') format('embedded-opentype'), url('../assets/fonts/icomoon.ttf?9u6x40') format('truetype'), url('../assets/fonts/icomoon.woff?9u6x40') format('woff'), url('../assets/fonts/icomoon.svg?9u6x40#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -432,25 +432,25 @@ template {
 }
 @font-face {
   font-family: 'Gotham';
-  src: url('../../assets/fonts/GothaProMed.otf');
+  src: url('../assets/fonts/GothaProMed.otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Gotham';
-  src: url('../../assets/fonts/GothaProBol.otf');
+  src: url('../assets/fonts/GothaProBol.otf');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Gotham Book';
-  src: url('../../assets/fonts/Gotham Book.otf');
+  src: url('../assets/fonts/Gotham Book.otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Roboto Condensed';
-  src: url('../../assets/fonts/RobotoBoldCondensed.ttf');
+  src: url('../assets/fonts/RobotoBoldCondensed.ttf');
   font-weight: bold;
   font-style: normal;
 }
